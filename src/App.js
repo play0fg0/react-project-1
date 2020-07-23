@@ -15,10 +15,10 @@ const App = () => {
       {/* <Header />
       <Tehnologies />
        */}
-      <Header />
+     {/*  <Header />
       <Navbar />
-      <Profile />
-
+      <Profile /> */}
+      UPS !!!
     </div>
   );
 }
